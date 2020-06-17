@@ -4,7 +4,7 @@
 <ol start="1">
 <li>Clone Repository</li>
 </ol>
-<pre><code>    https://github.com/mr1dha/FindTheBomb-SimpleGameWithJava.git
+<pre><code>  $ git clone https://github.com/mr1dha/FindTheBomb-SimpleGameWithJava.git
 </code></pre>
             <ol start="2">
 <li>Compile The Code </li>
